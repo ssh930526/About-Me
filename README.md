@@ -1,6 +1,6 @@
-# About-Me
+
 <!--
-**ssh930526/About-Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**ssh930526/ssh930526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">💫 Hi, I'm Sihui Shen 💻 💫 <h1>
 <h3 align="center">I am a passionate Full-Stack JavaScript Developer<h3>
